@@ -1,4 +1,4 @@
 myScalaTests
 ============
 
-My provate repo to test scala capabilities
+My private repo to test scala capabilities
