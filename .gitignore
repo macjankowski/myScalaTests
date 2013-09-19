@@ -1,9 +1,14 @@
 *.class
 *.log
+.cache
+.gradle/
+.classpath
+
 
 # sbt specific
 dist/*
 target/
+bin/
 lib_managed/
 src_managed/
 project/boot/
@@ -13,4 +18,4 @@ project/plugins/project/
 .scala_dependencies
 .classpath
 .project
-.cache
+
